@@ -18,30 +18,25 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kailas24&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kailas24&theme=radical&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
 ---
 
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=kailas24&show_icons=true&theme=tokyonight&hide_border=true" alt="kailas24's GitHub stats" />
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" height="35" /> About Me
 
-<table align="center">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> I’m currently working as a <b>Robotics Engineer</b> at STEM ROBOTICS INTERNATIONAL.</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Mechanical%20Arm.png" alt="Mechanical Arm" width="20" height="20" /> Specialized in bridging the gap between hardware and software to develop intelligent robotic systems and smart home products (IoT).</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" alt="Seedling" width="20" height="20" /> Deeply exploring <b>Computer Vision (OpenCV)</b>, <b>Face Recognition (ESP32-CAM)</b>, and seamless <b>Cloud-to-Hardware Integrations</b>.</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> <b>Fun fact</b>: I can make microcontrollers play romantic melodies! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="20" height="20" /></li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Direct Hit" width="20" height="20" /> <b>Goals</b>: To build scalable, intelligent robotic solutions that make an impact.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=kailas24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="kailas24's GitHub stats" width="100%" />
-    </td>
-  </tr>
-</table>
+<ul>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> I’m currently working as a <b>Robotics Engineer</b> at STEM ROBOTICS INTERNATIONAL.</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Mechanical%20Arm.png" alt="Mechanical Arm" width="20" height="20" /> Specialized in bridging the gap between hardware and software to develop intelligent robotic systems and smart home products (IoT).</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" alt="Seedling" width="20" height="20" /> Deeply exploring <b>Computer Vision (OpenCV)</b>, <b>Face Recognition (ESP32-CAM)</b>, and seamless <b>Cloud-to-Hardware Integrations</b>.</li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> <b>Fun fact</b>: I can make microcontrollers play romantic melodies! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="20" height="20" /></li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Direct Hit" width="20" height="20" /> <b>Goals</b>: To build scalable, intelligent robotic solutions that make an impact.</li>
+</ul>
+
+<br/><br/><br/>
 
 ---
 
