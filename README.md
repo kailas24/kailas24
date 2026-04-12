@@ -16,50 +16,81 @@
 
 ---
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=kailas24&show_icons=true&theme=tokyonight&hide_border=true" alt="kailas24's GitHub stats" />
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="30" height="30" /> About Me
-
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> I’m currently working as a **Robotics Engineer** at STEM ROBOTICS INTERNATIONAL.
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Mechanical%20Arm.png" alt="Mechanical Arm" width="20" height="20" /> Specialized in bridging the gap between hardware and software, developing intelligent robotic systems and smart home products (IoT).
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" alt="Seedling" width="20" height="20" /> Deeply exploring **Computer Vision (OpenCV)**, **Face Recognition (ESP32-CAM)**, and seamless **Cloud-to-Hardware Integrations**.
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> **Fun fact**: I can make microcontrollers play romantic melodies! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="20" height="20" />
-*   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Direct Hit" width="20" height="20" /> **Goals**: To build scalable, intelligent robotic solutions that make an impact.
-
-<br/><br/><br/>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="30" height="30" /> Arsenal & Technologies
-
 <div align="center">
-
-**Software, Languages & Web**<br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,html,css,react" alt="Languages" />
-
-<br/><br/>
-
-**Hardware & Embedded Systems**<br/>
-<img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-<img src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" alt="ROS">
-<img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
-<img src="https://img.shields.io/badge/-MicroPython-2B2728?style=for-the-badge&logo=python&logoColor=white" alt="MicroPython">
-
-<br/><br/>
-
-**Tools & Environment**<br/>
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash" alt="Tools" />
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kailas24&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
 </div>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="30" /> GitHub Analytics
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="35" height="35" /> About Me
+
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> I’m currently working as a <b>Robotics Engineer</b> at STEM ROBOTICS INTERNATIONAL.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Mechanical%20Arm.png" alt="Mechanical Arm" width="20" height="20" /> Specialized in bridging the gap between hardware and software to develop intelligent robotic systems and smart home products (IoT).</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Seedling.png" alt="Seedling" width="20" height="20" /> Deeply exploring <b>Computer Vision (OpenCV)</b>, <b>Face Recognition (ESP32-CAM)</b>, and seamless <b>Cloud-to-Hardware Integrations</b>.</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> <b>Fun fact</b>: I can make microcontrollers play romantic melodies! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="20" height="20" /></li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" alt="Direct Hit" width="20" height="20" /> <b>Goals</b>: To build scalable, intelligent robotic solutions that make an impact.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=kailas24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="kailas24's GitHub stats" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35" height="35" /> Arsenal & Technologies
+
+<div align="center">
+  <br/>
+  <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30"> Software, Languages & Web</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,html,css,react" alt="Languages" />
+  <br/><br/>
+
+  <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30"> Hardware & Embedded Systems</b><br/><br/>
+  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/-ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white" alt="ROS">
+  <img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/-MicroPython-2B2728?style=for-the-badge&logo=python&logoColor=white" alt="MicroPython">
+  <br/><br/>
+
+  <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="30"> Tools & Environment</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,bash" alt="Tools" />
+</div>
+
+<br/>
+
+---
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" height="35" /> Realtime Activity & Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kailas24&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kailas24&theme=tokyonight&hide_border=true" alt="kailas24's GitHub Streak" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailas24&theme=tokyonight&hide_border=true&layout=compact" alt="Top Langs" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h4>🐍 Watch my GitHub Snake eat my contribution graph!</h4>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kailas24/kailas24/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kailas24/kailas24/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kailas24/kailas24/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
